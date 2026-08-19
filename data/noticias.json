@@ -1,0 +1,49 @@
+[
+    {
+        "titulo": "Nueva Investigación en Inteligencia Artificial",
+        "descripcion": "Proyecto enfocado en machine learning y análisis predictivo.",
+        "fecha": "18 Mayo 2026",
+        "imagen": "img/noticia1.jpg",
+        "tipo": "Noticia"
+    },
+
+    {
+        "titulo": "Congreso Internacional de Tecnología",
+        "descripcion": "Participación de investigadores nacionales e internacionales.",
+        "fecha": "12 Junio 2026",
+        "imagen": "img/noticia2.jpg",
+        "tipo": "Evento"
+    },
+
+    {
+        "titulo": "Workshop de Desarrollo Web",
+        "descripcion": "Capacitación sobre tecnologías frontend modernas.",
+        "fecha": "22 Junio 2026",
+        "imagen": "img/noticia3.jpg",
+        "tipo": "Evento"
+    },
+
+    {
+        "titulo": "Desarrollo de Sistemas Inteligentes",
+        "descripcion": "Implementación de plataformas digitales institucionales.",
+        "fecha": "28 Junio 2026",
+        "imagen": "img/noticia4.jpeg",
+        "tipo": "Noticia"
+    },
+
+    {
+        "titulo": "Seminario Científico 2026",
+        "descripcion": "Conferencia especializada en innovación tecnológica.",
+        "fecha": "10 Julio 2026",
+        "imagen": "img/laboratorio.jpg",
+        "tipo": "Evento"
+    },
+
+    {
+        "titulo": "Innovación Científica Aplicada",
+        "descripcion": "Desarrollo de herramientas digitales para investigación.",
+        "fecha": "15 Julio 2026",
+        "imagen": "img/investigacion.jpg",
+        "tipo": "Noticia"
+    }
+]
